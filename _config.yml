@@ -28,8 +28,8 @@ url: "https://github.com/SilvioFerrara/SilvioFerrara.github.io"
 github:
   username: SilvioFerrara # change to your github username
 
-twitter:
-  username: silviof93 # change to your twitter username
+#twitter:
+#  username: silviof93 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/silvio.ferrara.93/
     # - https://www.linkedin.com/in/silvio-ferrara-334584307/
-    
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -96,8 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: /assets/img/content/avatar.jfif
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
