@@ -1,6 +1,6 @@
 ---
-title: Tutorial Unity [ITA]
-date: 2024-04-17
+title: Tutorial Unity [IT]
+date: 2024-07-02
 categories: Tutorial
 tags: VideoGameCreation Unity UnityTutorial 
 image :
