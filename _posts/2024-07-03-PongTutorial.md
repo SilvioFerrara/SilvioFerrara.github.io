@@ -127,9 +127,7 @@ Creiamo un Game Object vuoto e lo rinominiamo "Score". Assegniamo uno script per
 
 ![score1](../assets/img/postPongTutorial/score1.png)
 ![score2](../assets/img/postPongTutorial/score2.png)
-![scorescript](../assets/img
-
-/postPongTutorial/scorescript.png)
+![scorescript](../assets/img/postPongTutorial/scorescript.png)
 
 Con questi passaggi, siamo pronti a testare il gioco Pong. Verificate che tutti gli oggetti e le regole siano state applicate correttamente e divertitevi con il vostro gioco!
 
